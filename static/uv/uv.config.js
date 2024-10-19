@@ -1,6 +1,6 @@
 self.__uv$config = {
   prefix: '/static/pa/',
-  bare: 'https://pbare.slackersinc.net/bare/',  
+  bare: 'https://plexilebare.slackersinc.net/bare/',  
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: '/static/uv/uv.handler.js',
