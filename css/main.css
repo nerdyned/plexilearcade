@@ -337,7 +337,6 @@ b {
   border-radius: 8px;
   padding: 10px 20px;
   display: flex;
-  border: 1px solid #1C1C1C;
   align-items: center;
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
